@@ -160,6 +160,6 @@ consumption_map %>%
                max = 2200) %>%
   e_title("Total CO2 Emissions by Country", 
           left = "center") %>%
-  e_theme("azul")
+  e_theme("coral")
   
 ```
