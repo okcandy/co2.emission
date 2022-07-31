@@ -1,6 +1,6 @@
 ## CO2 Emission
 
-This is part of tidytuesday project to analyse food consumption and CO2 emissions for 130 countries.
+This is part of tidytuesday project to analyse food consumption and carbon footprint for 130 countries.
 
 
 #### github-page
